@@ -1,2 +1,2 @@
 # crazyjavastudy
-study java when revied exoplayer and ijkplayer for hls/rtmp streaming for vr videos
+study java when study exoplayer and ijkplayer for hls/rtmp dynamic streaming(multi fov) for VR videos
